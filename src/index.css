@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'bold';
+  src: url(../src/assets/fonts/Origin-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'regular';
+  src: url(../src/assets/fonts/Origin-Regular.ttf);
+}
+
+body{
+  margin: 0;
+}
